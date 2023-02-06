@@ -1,0 +1,15 @@
+D:\ДЗ\ДЗ060223\Задача 66\bin\Debug\net6.0\Задача 66.exe
+D:\ДЗ\ДЗ060223\Задача 66\bin\Debug\net6.0\Задача 66.deps.json
+D:\ДЗ\ДЗ060223\Задача 66\bin\Debug\net6.0\Задача 66.runtimeconfig.json
+D:\ДЗ\ДЗ060223\Задача 66\bin\Debug\net6.0\Задача 66.dll
+D:\ДЗ\ДЗ060223\Задача 66\bin\Debug\net6.0\Задача 66.pdb
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.csproj.AssemblyReference.cache
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.AssemblyInfoInputs.cache
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.AssemblyInfo.cs
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.csproj.CoreCompileInputs.cache
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.dll
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\refint\Задача 66.dll
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.pdb
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\Задача 66.genruntimeconfig.cache
+D:\ДЗ\ДЗ060223\Задача 66\obj\Debug\net6.0\ref\Задача 66.dll
